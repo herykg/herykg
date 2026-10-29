@@ -67,8 +67,16 @@ I value practical engineering, continuous improvement, clear processes, and solu
 ## 📊 GitHub Statistics
 
 <p>
-  <img loading="lazy" height="180em" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=herykg&show_icons=true&theme=transparent&include_all_commits=true"/>
-  <img loading="lazy" height="180em" alt="Most used programming languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herykg&layout=compact&langs_count=8&theme=transparent"/>
+  <img
+    height="180"
+    alt="GitHub statistics"
+    src="https://github-stats-extended.vercel.app/api?username=herykg&show_icons=true&theme=transparent"
+  />
+  <img
+    height="180"
+    alt="Most used programming languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=herykg&layout=compact&langs_count=8&theme=transparent"
+  />
 </p>
 
 ---
